@@ -44,19 +44,6 @@ Groovify is a sleek and responsive **Spotify-inspired music player UI** built us
 > - `mobile-view.png`
 ![alt text](image-1.png)
 
----
-
-## Folder Structure
-Groovify/
-├── index.html
-├── style.css
-├── utility.css
-├── script.js
-├── assets/
-│ ├── images/
-│ └── music/
-└── README.md
-
 
 ---
 
